@@ -1,6 +1,6 @@
-# 🚀 32-bit Pipelined RISC Processor (Verilog)
+# 32-bit Pipelined RISC Processor (Verilog)
 
-## 📖 Overview
+## Overview
 This project implements a 32-bit RISC processor using a 5-stage pipeline architecture:
 
 - Instruction Fetch (IF)
@@ -13,7 +13,7 @@ Designed and simulated using Verilog HDL on EDA Playground.
 
 ---
 
-## 🧠 Features
+## Features
 - 32-bit architecture
 - 5-stage pipelining
 - ALU operations (ADD, SUB, AND, OR, XOR)
@@ -23,7 +23,7 @@ Designed and simulated using Verilog HDL on EDA Playground.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ![Pipeline Diagram]
 <img width="1361" height="172" alt="pipeline_waveform" src="https://github.com/user-attachments/assets/97886122-e540-4fe3-955f-1054e409faa8" />
@@ -31,7 +31,7 @@ Designed and simulated using Verilog HDL on EDA Playground.
 
 ---
 
-## ⏱️ Simulation Results
+## Simulation Results
 
 ### Waveform Output
 <img width="1353" height="136" alt="waveform_basic" src="https://github.com/user-attachments/assets/81430ac8-da7b-4bba-82c7-e30ea4f4cc2c" />
@@ -40,14 +40,14 @@ Designed and simulated using Verilog HDL on EDA Playground.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Verilog HDL
 - EDA Playground
 - GTKWave
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Open EDA Playground
 2. Copy design files and testbench
 3. Run simulation
@@ -55,7 +55,7 @@ Designed and simulated using Verilog HDL on EDA Playground.
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Hazard Detection Unit
 - Forwarding Unit
 - Branch Prediction
